@@ -411,3 +411,16 @@ footer,footer p,footer a,footer .brand{color:#F7F8F5!important}
 #poll-pending,#poll-pending *{color:#111214!important}
 #poll-cards .poll-source p,#poll-cards .poll-source small,
 #catalogue-provenance p,#poll-pending p{color:#3E4641!important}
+:where(#directo){background:var(--olive)!important;color:var(--ink)!important}
+#directo h2,#directo h3,#directo p,#directo label,#directo .note,#directo .eyebrow{color:var(--ink)!important}
+#directo .direct-status,#directo .card,#directo .direct-log{background:rgba(255,255,255,.86)!important;color:var(--ink)!important}
+#directo input:not([type=checkbox]),#directo select{background:#fffef8!important;color:var(--ink)!important;border-color:var(--ink)!important}
+#metodologia{background:#fff!important;color:var(--ink)!important}
+#metodologia h2,#metodologia h3,#metodologia p,#metodologia a,#metodologia .note{color:var(--ink)!important}
+#privacidad{background:#eceee9!important;color:var(--ink)!important}
+#privacidad h2,#privacidad h3,#privacidad p,#privacidad a,#privacidad .note{color:var(--ink)!important}
+.mobile-nav{background:rgba(255,255,255,.97)!important;border-top:1px solid #d8ddd8!important;box-shadow:0 -8px 24px rgba(17,18,20,.14)!important;padding:8px max(12px,env(safe-area-inset-left)) calc(8px + env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-right))!important;gap:4px!important}
+.mobile-nav a,.mobile-nav button{border-radius:14px!important;min-height:52px!important;display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:3px!important;color:#59605c!important;font-size:10px!important;font-weight:700!important;text-decoration:none!important;transition:background .15s,color .15s,transform .15s!important}
+.mobile-nav a:hover,.mobile-nav button:hover,.mobile-nav a[aria-current=true],.mobile-nav a.active,.mobile-nav button[aria-current=true],.mobile-nav button.active{background:var(--olive)!important;color:var(--ink)!important}
+.mobile-nav a:active,.mobile-nav button:active{transform:scale(.96)}
+@media(min-width:701px){.mobile-nav{display:none!important}}
