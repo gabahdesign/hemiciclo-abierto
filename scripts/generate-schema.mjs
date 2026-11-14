@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import {generateSQLiteDrizzleJson,generateSQLiteMigration} from 'drizzle-kit/api';
+import * as schema from '../db/schema.ts';
+const previous=await generateSQLiteDrizzleJson({});
+const current=await generateSQLiteDrizzleJson(schema,previous.id);
+const statements=await generateSQLiteMigration(previous,current);
+console.log(statements);
+fs.mkdirSync('drizzle/meta',{recursive:true});
+fs.writeFileSync('drizzle/0000_responses.sql',statements.join('\n--> statement-breakpoint\n')+'\n');
+fs.writeFileSync('drizzle/meta/0000_snapshot.json',JSON.stringify({...current,prevId:'00000000-0000-0000-0000-000000000000'},null,2));
+fs.writeFileSync('drizzle/meta/_journal.json',JSON.stringify({version:'7',dialect:'sqlite',entries:[{idx:0,version:'6',when:Date.now(),tag:'0000_responses',breakpoints:true}]},null,2));

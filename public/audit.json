@@ -1,0 +1,2566 @@
+{
+  "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
+  "documentDate": "2026-11-03",
+  "checked": "2026-11-07",
+  "sourceSha256": "5d76b724620cd60b3c999596eb5bac27a508319a367944e131ac8f575a3e3cc2",
+  "lists": 534,
+  "districts": 52,
+  "missing": 0,
+  "extra": 0,
+  "scope": "Congreso; nombre y presencia provincial de cada papeleta. No certifica acuerdos de campaña ni miembros no incluidos en la denominación oficial. Denominaciones de Navarra corregidas según BOE del 7/11; el hash corresponde al documento original del 3/11.",
+  "provinces": [
+    {
+      "province": "A CORUÑA",
+      "region": "Galicia",
+      "count": 9,
+      "seats": 8,
+      "ballots": [
+        {
+          "name": "Partido dos Socialistas de Galicia-PSOE (PSdeG-PSOE)",
+          "group": "PSdeG-PSOE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA (PCTG)",
+          "group": "PCTG"
+        },
+        {
+          "name": "BLOQUE NACIONALISTA GALEGO (B.N.G.)",
+          "group": "BNG"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "Frente Amplio-Fronte Ampla (FRENTE AMPLIO-FRONTE AMPLA)",
+          "group": "FRENTE AMPLIO-FRONTE AMPLA"
+        }
+      ]
+    },
+    {
+      "province": "ALBACETE",
+      "region": "Castilla-La Mancha",
+      "count": 9,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "ALICANTE",
+      "region": "Comunitat Valenciana",
+      "count": 9,
+      "seats": 12,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO AUTÓNOMOS (PARTIDO AUTÓNOMOS)",
+          "group": "PARTIDO AUTÓNOMOS"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "COMPROMÍS: FRONT VALENCIÀ (COMPROMIS-EUPV-PODEM-ERPV)",
+          "group": "COMPROMIS-EUPV-PODEM-ERPV"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        }
+      ]
+    },
+    {
+      "province": "ALMERÍA",
+      "region": "Andalucía",
+      "count": 12,
+      "seats": 6,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "ASTURIAS",
+      "region": "Asturias",
+      "count": 11,
+      "seats": 7,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO UNIONISTA ESTADO DE ESPAÑA (PUEDE)",
+          "group": "PUEDE"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "FRENTE AMPLIU POR ASTURIES (FA)",
+          "group": "FRENTE AMPLIU POR ASTURIES"
+        }
+      ]
+    },
+    {
+      "province": "BADAJOZ",
+      "region": "Extremadura",
+      "count": 9,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA (NEX)",
+          "group": "NEX"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        }
+      ]
+    },
+    {
+      "province": "BARCELONA",
+      "region": "Cataluña",
+      "count": 11,
+      "seats": 32,
+      "ballots": [
+        {
+          "name": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE) (PSC)",
+          "group": "PSC-PSOE"
+        },
+        {
+          "name": "JUNTS PER CATALUNYA (JxCat)",
+          "group": "JUNTS"
+        },
+        {
+          "name": "ESQUERRA REPUBLICANA DE CATALUNYA (ERC)",
+          "group": "ERC"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA (PCTC)",
+          "group": "PCTC"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "Comuns-Front Ampli (COMUNS-FRONT AMPLI)",
+          "group": "COMUNS-FRONT AMPLI"
+        },
+        {
+          "name": "PARTIT POPULAR / PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "DEMOCRACIA para el siglo 21 (D21)",
+          "group": "D21"
+        },
+        {
+          "name": "ALHORA (ALHORA)",
+          "group": "ALHORA"
+        }
+      ]
+    },
+    {
+      "province": "BIZKAIA",
+      "region": "País Vasco",
+      "count": 11,
+      "seats": 8,
+      "ballots": [
+        {
+          "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO (EAJ-PNV)",
+          "group": "EAJ-PNV"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE (PSOE)",
+          "group": "PSE-EE (PSOE)"
+        },
+        {
+          "name": "EUSKAL HERRIA BILDU (EH Bildu)",
+          "group": "EH BILDU"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA (PCTE/ELAK)",
+          "group": "PCTE/ELAK"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "FRENTE AMPLIO (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        }
+      ]
+    },
+    {
+      "province": "BURGOS",
+      "region": "Castilla y León",
+      "count": 9,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "CANTABRIA",
+      "region": "Cantabria",
+      "count": 7,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "FRENTE AMPLIO (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "CASTELLÓN",
+      "region": "Comunitat Valenciana",
+      "count": 10,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "PARTIDO AUTÓNOMOS (PARTIDO AUTÓNOMOS)",
+          "group": "PARTIDO AUTÓNOMOS"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS JONS (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "COMPROMÍS: FRONT VALENCIÀ (COMPROMIS-EUPV-PODEM-ERPV)",
+          "group": "COMPROMIS-EUPV-PODEM-ERPV"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        }
+      ]
+    },
+    {
+      "province": "CEUTA",
+      "region": "Ceuta",
+      "count": 6,
+      "seats": 1,
+      "ballots": [
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PAZ,CASA Y TRABAJO)",
+          "group": "PODEMOS · PAZ, CASA Y TRABAJO"
+        },
+        {
+          "name": "SE ACABO LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "FRENTE OBRERO",
+          "group": "FO"
+        }
+      ]
+    },
+    {
+      "province": "CIUDAD REAL",
+      "region": "Castilla-La Mancha",
+      "count": 6,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "CUENCA",
+      "region": "Castilla-La Mancha",
+      "count": 10,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "FRENTE AMPLIO (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "CÁCERES",
+      "region": "Extremadura",
+      "count": 9,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA (NEX)",
+          "group": "NEX"
+        }
+      ]
+    },
+    {
+      "province": "CÁDIZ",
+      "region": "Andalucía",
+      "count": 11,
+      "seats": 8,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "Frente Amplio Andaluz (FA)",
+          "group": "FRENTE AMPLIO ANDALUZ"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        }
+      ]
+    },
+    {
+      "province": "CÓRDOBA",
+      "region": "Andalucía",
+      "count": 12,
+      "seats": 6,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS JONS (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "FRENTE AMPLIO ANDALUZ (FA)",
+          "group": "FRENTE AMPLIO ANDALUZ"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        }
+      ]
+    },
+    {
+      "province": "GIPUZKOA",
+      "region": "País Vasco",
+      "count": 11,
+      "seats": 6,
+      "ballots": [
+        {
+          "name": "EUSKAL HERRIA BILDU (EH BILDU)",
+          "group": "EH BILDU"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE (PSOE)",
+          "group": "PSE-EE (PSOE)"
+        },
+        {
+          "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO (EAJ-PNV)",
+          "group": "EAJ-PNV"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "EUSKADIKO LANGILEEN ALDERDI KOMUNISTA/PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI (ELAK/PCTE)",
+          "group": "ELAK/PCTE"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "GIRONA",
+      "region": "Cataluña",
+      "count": 10,
+      "seats": 6,
+      "ballots": [
+        {
+          "name": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE) (PSC)",
+          "group": "PSC-PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "JUNTS PER CATALUNYA (JxCat)",
+          "group": "JUNTS"
+        },
+        {
+          "name": "ESQUERRA REPUBLICANA DE CATALUNYA (ERC)",
+          "group": "ERC"
+        },
+        {
+          "name": "Comuns-Front Ampli (COMUNS-FRONT AMPLI)",
+          "group": "COMUNS-FRONT AMPLI"
+        },
+        {
+          "name": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA (PCTC)",
+          "group": "PCTC"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "ALHORA (ALHORA)",
+          "group": "ALHORA"
+        },
+        {
+          "name": "PARTIT POPULAR / PARTIDO POPULAR (PP)",
+          "group": "PP"
+        }
+      ]
+    },
+    {
+      "province": "GRANADA",
+      "region": "Andalucía",
+      "count": 11,
+      "seats": 7,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio Andaluz (FA)",
+          "group": "FRENTE AMPLIO ANDALUZ"
+        }
+      ]
+    },
+    {
+      "province": "GUADALAJARA",
+      "region": "Castilla-La Mancha",
+      "count": 10,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE AMPLIO (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        }
+      ]
+    },
+    {
+      "province": "HUELVA",
+      "region": "Andalucía",
+      "count": 10,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA DE HUELVA (PSOE)",
+          "group": "PSOE · Huelva"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio Andaluz (FA)",
+          "group": "FRENTE AMPLIO ANDALUZ"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        }
+      ]
+    },
+    {
+      "province": "HUESCA",
+      "region": "Aragón",
+      "count": 11,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "CHUNTA ARAGONESISTA-FRENTE AMPLIO ARAGÓN (CHA-IU-MS-FRENTE AMPLIO)",
+          "group": "CHA-IU-MS-FRENTE AMPLIO"
+        },
+        {
+          "name": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (FIA)",
+          "group": "FIA"
+        }
+      ]
+    },
+    {
+      "province": "ILLES BALEARS",
+      "region": "Illes Balears",
+      "count": 7,
+      "seats": 8,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA DE LAS ISLAS BALEARES (PSIB-PSOE)",
+          "group": "PSIB-PSOE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "ARAMÉS-FRONT AMPLI (ARAMÉS-EU-MS)",
+          "group": "ARAMÉS-EU-MS"
+        }
+      ]
+    },
+    {
+      "province": "JAÉN",
+      "region": "Andalucía",
+      "count": 11,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "FRENTE AMPLIO (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "LA RIOJA",
+      "region": "La Rioja",
+      "count": 10,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABO LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "FRENTE AMPLIO (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACIOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        }
+      ]
+    },
+    {
+      "province": "LAS PALMAS",
+      "region": "Canarias",
+      "count": 14,
+      "seats": 8,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "LIBERACIÓN CANARIA (LIB)",
+          "group": "LIB"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PARTIDO DRAGO CANARIAS (D.R.G)",
+          "group": "D.R.G"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "MUNICIPALISTAS PRIMERO CANARIAS-COALICIÓN CANARIA (1.ºCAN-CCa)",
+          "group": "1.ºCAN-CCa"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "POR UN MUNDO MÁS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "UNIDAD DEL PUEBLO CANARIO UPC (NC-BC, PODEMOS, IU, SUMAR)",
+          "group": "NC-BC, PODEMOS, IU, SUMAR"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DEL PUEBLO CANARIO (PCPC)",
+          "group": "PCPC"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        }
+      ]
+    },
+    {
+      "province": "LEÓN",
+      "region": "Castilla y León",
+      "count": 12,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PROYECTO ALANTRE (P. ALANTRE)",
+          "group": "P. ALANTRE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO REGIONALISTA DEL PAIS LEONES (PREPAL)",
+          "group": "PREPAL"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        }
+      ]
+    },
+    {
+      "province": "LLEIDA",
+      "region": "Cataluña",
+      "count": 10,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE) (PSC)",
+          "group": "PSC-PSOE"
+        },
+        {
+          "name": "JUNTS PER CATALUNYA (JxCat)",
+          "group": "JUNTS"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "ESQUERRA REPUBLICANA DE CATALUNYA (ERC)",
+          "group": "ERC"
+        },
+        {
+          "name": "Comuns-Front Ampli (COMUNS-FRONT AMPLI)",
+          "group": "COMUNS-FRONT AMPLI"
+        },
+        {
+          "name": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA (PCTC)",
+          "group": "PCTC"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIT ANIMALISTA AMB EL MEDI AMBIENT (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "ALHORA (ALHORA)",
+          "group": "ALHORA"
+        }
+      ]
+    },
+    {
+      "province": "LUGO",
+      "region": "Galicia",
+      "count": 8,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "PARTIDO DOS SOCIALISTAS DE GALICIA-PSOE (PSdeG-PSOE)",
+          "group": "PSdeG-PSOE"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "BLOQUE NACIONALISTA GALEGO (BNG)",
+          "group": "BNG"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "FRENTE AMPLIO-FRONTE AMPLA (FRENTE AMPLIO-FRONTE AMPLA)",
+          "group": "FRENTE AMPLIO-FRONTE AMPLA"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        }
+      ]
+    },
+    {
+      "province": "MADRID",
+      "region": "Comunidad de Madrid",
+      "count": 14,
+      "seats": 38,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO HUMANISTA (PH)",
+          "group": "PH"
+        },
+        {
+          "name": "DEMOCRACIA PARA EL SIGLO 21 (D21)",
+          "group": "D21"
+        },
+        {
+          "name": "IUSTITIA EUROPA (IE)",
+          "group": "IE"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        }
+      ]
+    },
+    {
+      "province": "MELILLA",
+      "region": "Melilla",
+      "count": 5,
+      "seats": 1,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        }
+      ]
+    },
+    {
+      "province": "MURCIA",
+      "region": "Región de Murcia",
+      "count": 10,
+      "seats": 10,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "TERCERA EDAD EN ACCIÓN (3e)",
+          "group": "3E"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        }
+      ]
+    },
+    {
+      "province": "MÁLAGA",
+      "region": "Andalucía",
+      "count": 11,
+      "seats": 11,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "ALTERNATIVA MALAGUEÑA (29)",
+          "group": "29"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "NAVARRA",
+      "region": "Navarra",
+      "count": 13,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "EUSKAL HERRIA BILDU (EH BILDU)",
+          "group": "EH BILDU"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA DE NAVARRA-PSOE (PSN-PSOE)",
+          "group": "PSN-PSOE"
+        },
+        {
+          "name": "EGUZKILORE (EGUZKILORE)",
+          "group": "EGUZKILORE"
+        },
+        {
+          "name": "GEROA BAI (GBAI)",
+          "group": "GBAI"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON EL PARTIDO POPULAR (UPN-PP)",
+          "group": "UPN-PP"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "FRENTE AMPLIO-FRONTE ZABALA (FRENTE AMPLIO-FRONTE ZABALA)",
+          "group": "FRENTE AMPLIO-FRONTE ZABALA"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        }
+      ]
+    },
+    {
+      "province": "OURENSE",
+      "region": "Galicia",
+      "count": 10,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "Partido dos Socialistas de Galicia-PSOE (PSdeG-PSOE)",
+          "group": "PSdeG-PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA (PCTG)",
+          "group": "PCTG"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "BLOQUE NACIONALISTA GALEGO (BNG)",
+          "group": "BNG"
+        },
+        {
+          "name": "POR UN MUNDO MAIS XUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "Frente Amplio-Fronte Ampla (FRENTE AMPLIO-FRONTE AMPLA)",
+          "group": "FRENTE AMPLIO-FRONTE AMPLA"
+        }
+      ]
+    },
+    {
+      "province": "PALENCIA",
+      "region": "Castilla y León",
+      "count": 11,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "PONTEVEDRA",
+      "region": "Galicia",
+      "count": 10,
+      "seats": 7,
+      "ballots": [
+        {
+          "name": "Frente Obrero (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "Partido Comunista dos Traballadores da Galiza (PCTG)",
+          "group": "PCTG"
+        },
+        {
+          "name": "Partido dos Socialistas de Galicia-PSOE (PSdeG-PSOE)",
+          "group": "PSdeG-PSOE"
+        },
+        {
+          "name": "Escanos en Branco para deixar Escanos Baleiros (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        },
+        {
+          "name": "Partido Popular (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio - Fronte Ampla (FRENTE AMPLIO - FRONTE AMPLA)",
+          "group": "FRENTE AMPLIO-FRONTE AMPLA"
+        },
+        {
+          "name": "BLOQUE NACIONALISTA GALEGO (BNG)",
+          "group": "BNG"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        }
+      ]
+    },
+    {
+      "province": "SALAMANCA",
+      "region": "Castilla y León",
+      "count": 9,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO REGIONALISTA DEL PAIS LEONES (PREPAL)",
+          "group": "PREPAL"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "SANTA CRUZ DE TENERIFE",
+      "region": "Canarias",
+      "count": 12,
+      "seats": 7,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "Coalición Canaria-Municipalistas Primero Canarias (CCa-1.ºCAN)",
+          "group": "CCa-1.ºCAN"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PARTIDO DRAGO CANARIAS (D.R.G)",
+          "group": "D.R.G"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "UNIDAD DEL PUEBLO CANARIO UPC (NC-BC, PODEMOS, IU, SUMAR)",
+          "group": "NC-BC, PODEMOS, IU, SUMAR"
+        },
+        {
+          "name": "LIBERACIÓN CANARIA (LIB)",
+          "group": "LIB"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO AUTÓNOMOS (PARTIDO AUTÓNOMOS)",
+          "group": "PARTIDO AUTÓNOMOS"
+        }
+      ]
+    },
+    {
+      "province": "SEGOVIA",
+      "region": "Castilla y León",
+      "count": 10,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        }
+      ]
+    },
+    {
+      "province": "SEVILLA",
+      "region": "Andalucía",
+      "count": 11,
+      "seats": 12,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+          "group": "ADELANTE ANDALUCÍA"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "Frente Amplio Andaluz (FA)",
+          "group": "FRENTE AMPLIO ANDALUZ"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        }
+      ]
+    },
+    {
+      "province": "SORIA",
+      "region": "Castilla y León",
+      "count": 11,
+      "seats": 2,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "SORIA ¡YA! (SY)",
+          "group": "SY"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        }
+      ]
+    },
+    {
+      "province": "TARRAGONA",
+      "region": "Cataluña",
+      "count": 13,
+      "seats": 6,
+      "ballots": [
+        {
+          "name": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE) (PSC)",
+          "group": "PSC-PSOE"
+        },
+        {
+          "name": "ESQUERRA REPUBLICANA DE CATALUNYA (ERC)",
+          "group": "ERC"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "JUNTS PER CATALUNYA (JxCat)",
+          "group": "JUNTS"
+        },
+        {
+          "name": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA (PCTC)",
+          "group": "PCTC"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "Comuns-Front Ampli (COMUNS-FRONT AMPLI)",
+          "group": "COMUNS-FRONT AMPLI"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "CONVERGENTS (CNV)",
+          "group": "CNV"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "PARTIT POPULAR / PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "ALHORA (ALHORA)",
+          "group": "ALHORA"
+        }
+      ]
+    },
+    {
+      "province": "TERUEL",
+      "region": "Aragón",
+      "count": 10,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "TERUEL EXISTE (TERUEL EXISTE)",
+          "group": "TERUEL EXISTE"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        }
+      ]
+    },
+    {
+      "province": "TOLEDO",
+      "region": "Castilla-La Mancha",
+      "count": 9,
+      "seats": 6,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        }
+      ]
+    },
+    {
+      "province": "VALENCIA",
+      "region": "Comunitat Valenciana",
+      "count": 13,
+      "seats": 16,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "COMPROMÍS: FRONT VALENCIÀ (COMPROMIS-EUPV-PODEM-ERPV)",
+          "group": "COMPROMIS-EUPV-PODEM-ERPV"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "VALENCIA UNIDA (VLC)",
+          "group": "VLC"
+        },
+        {
+          "name": "RENACER RENAIXER (RRB)",
+          "group": "RRB"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "AGENDA VALENCIANA (AGENDA VALENCIANA)",
+          "group": "AGENDA VALENCIANA"
+        }
+      ]
+    },
+    {
+      "province": "VALLADOLID",
+      "region": "Castilla y León",
+      "count": 13,
+      "seats": 5,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "PARTIDO NACIONALISTA DE CASTILLA Y LEÓN - UNION REFORMISTA CIUDADANA (PANCAL-URCI)",
+          "group": "PANCAL-URCI"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+          "group": "FE DE LAS JONS"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        }
+      ]
+    },
+    {
+      "province": "ZAMORA",
+      "region": "Castilla y León",
+      "count": 9,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "PARTIDO REGIONALISTA DEL PAIS LEONES (PREPAL)",
+          "group": "PREPAL"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    },
+    {
+      "province": "ZARAGOZA",
+      "region": "Aragón",
+      "count": 10,
+      "seats": 7,
+      "ballots": [
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (F.I.A.)",
+          "group": "F.I.A."
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "Chunta Aragonesista-Frente Amplio Aragón (CHA-IU-MS-FRENTE AMPLIO)",
+          "group": "CHA-IU-MS-FRENTE AMPLIO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        }
+      ]
+    },
+    {
+      "province": "ÁLAVA",
+      "region": "País Vasco",
+      "count": 14,
+      "seats": 4,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE (PSOE)",
+          "group": "PSE-EE (PSOE)"
+        },
+        {
+          "name": "EUSKAL HERRIA BILDU (EH BILDU)",
+          "group": "EH BILDU"
+        },
+        {
+          "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO (EAJ-PNV)",
+          "group": "EAJ-PNV"
+        },
+        {
+          "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+          "group": "ESCAÑOS EN BLANCO"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+          "group": "PACMA"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA (PCTE/ELAK)",
+          "group": "PCTE/ELAK"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "FRENTE AMPLIO-FRONTE ZABALA (FRENTE AMPLIO-FRONTE ZABALA)",
+          "group": "FRENTE AMPLIO-FRONTE ZABALA"
+        },
+        {
+          "name": "FEMINISTAS AL CONGRESO (PFAC)",
+          "group": "PFAC"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        }
+      ]
+    },
+    {
+      "province": "ÁVILA",
+      "region": "Castilla y León",
+      "count": 10,
+      "seats": 3,
+      "ballots": [
+        {
+          "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+          "group": "PSOE"
+        },
+        {
+          "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+          "group": "MUNDO+JUSTO"
+        },
+        {
+          "name": "SE ACABÓ LA FIESTA (SALF)",
+          "group": "SALF"
+        },
+        {
+          "name": "FRENTE OBRERO (FO)",
+          "group": "FO"
+        },
+        {
+          "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+          "group": "PCTE"
+        },
+        {
+          "name": "VOX (VOX)",
+          "group": "VOX"
+        },
+        {
+          "name": "PODEMOS (PODEMOS)",
+          "group": "PODEMOS"
+        },
+        {
+          "name": "PARTIDO POPULAR (PP)",
+          "group": "PP"
+        },
+        {
+          "name": "PARTIDO DEMÓCRATA SOCIAL JUBILADOS EUROPEOS (P.D.S.J.E.)",
+          "group": "P.D.S.J.E."
+        },
+        {
+          "name": "Frente Amplio (FA)",
+          "group": "FRENTE AMPLIO"
+        }
+      ]
+    }
+  ],
+  "correctionSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23383"
+}

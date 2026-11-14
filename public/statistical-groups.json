@@ -1,0 +1,11 @@
+{
+  "updated":"2026-11-03",
+  "description":"Agrupaciones de presentación para las estadísticas de participación. Cada respuesta se cuenta una sola vez; no modifican las candidaturas ni el reparto provincial.",
+  "groups":[
+    {"label":"PSOE","members":["PSOE","PSC-PSOE","PSE-EE (PSOE)","PSIB-PSOE","PSN-PSOE","PSdeG-PSOE","PSOE · Huelva"],"note":"PSOE y sus denominaciones territoriales; PSC-PSOE se suma a esta familia para la presentación estatal.","sources":["https://www.socialistes.cat/wp-content/uploads/2023/12/Ponencia-marc-15-Congres-PSC.pdf","https://www.psdeg-psoe.com/wp-content/uploads/2021/11/ESTATUTOS-NUMERADO.pdf","https://www.psib-psoe.org/el-partit/","https://www.psn-psoe.org/conocenos/historia/","https://www.socialistasvascos.com/estatutos.htm"]},
+    {"label":"FRENTE AMPLIO","members":["FRENTE AMPLIO","FRENTE AMPLIO ANDALUZ","FRENTE AMPLIO-FRONTE AMPLA","FRENTE AMPLIO-FRONTE ZABALA","FRENTE AMPLIU POR ASTURIES","COMUNS-FRONT AMPLI","CHA-IU-MS-FRENTE AMPLIO"],"note":"Denominaciones territoriales del Frente Amplio, incluidas las candidaturas de Comuns y CHA. No se incluyen automáticamente otras coaliciones que contienen a alguno de sus miembros.","sources":["https://comuns.cat/es/comuns-frente-amplio-ratifica-sus-candidaturas-a-las-cuatro-demarcaciones-catalanas-por-el-29n/","https://www.chunta.org/presentacion-de-la-coalicion-entre-cha-y-frente-amplio-para-las-elecciones-generales-de-2026/","https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103"]},
+    {"label":"PODEMOS","members":["PODEMOS","PODEMOS · PAZ, CASA Y TRABAJO"],"note":"Denominaciones propias de Podemos. Las respuestas a ERC, Compromís o la coalición canaria no se reparten entre sus integrantes.","sources":["https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103"]},
+    {"label":"CCa–Primero Canarias","members":["1.ºCAN-CCa","CCa-1.ºCAN"],"note":"Dos denominaciones provinciales de la misma coalición canaria.","sources":["https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103"]},
+    {"label":"PNV","members":["EAJ-PNV"],"note":"Siglas territoriales EAJ-PNV, presentadas con su nombre habitual PNV.","sources":["https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103"]}
+  ]
+}

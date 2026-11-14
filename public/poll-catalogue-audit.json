@@ -1,0 +1,467 @@
+{
+  "cutoff": "2026-11-03",
+  "catalogue": {
+    "title": "Archivo estatal desde el 24 de julio de 2023",
+    "from": "2023-07-24",
+    "until": "2026-11-03",
+    "records": 510,
+    "firms": 28,
+    "eligibleRecords": 20,
+    "originalRecords": 29,
+    "archiveRecords": 481,
+    "source": "Wikipedia: Opinion polling for the 2026 Spanish general election",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Spanish_general_election",
+    "license": "Archivo adaptado bajo CC BY-SA 4.0; las fuentes primarias conservan sus propios derechos.",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "limitations": "Se han incorporado las filas inequívocas de las tablas de estimación estatal, además de publicaciones originales revisadas. Se excluyen resultados electorales, intención directa, escenarios alternativos, promedios y reestimaciones. No se garantiza que el repertorio incluya todos los sondeos publicados. Las filas con varios escenarios quedan en el registro de revisión. Actualización documental manual; sin búsqueda automática. Todas las casas son seleccionables. La selección inicial prioriza fichas verificadas. Al incluir registros pendientes se avisa en cada casa y en la media; si falta el campo se usa la publicación como fecha de referencia."
+  },
+  "sourceSha256": "476c2c5f75d872663728f6055609f67f7d8d18964bcad8bbafc65127ce0dbd3c",
+  "discrepancies": [
+    {
+      "id": "ncreport-20261102",
+      "firm": "NC Report",
+      "values": {
+        "PP": {
+          "original": 32.6,
+          "repertorio": 33.0
+        }
+      }
+    },
+    {
+      "id": "hamalgama-20261102",
+      "firm": "Hamalgama Métrica",
+      "values": {
+        "PP": {
+          "original": 32.0,
+          "repertorio": 32.4
+        }
+      }
+    },
+    {
+      "id": "imop-20261009",
+      "firm": "IMOP Insights",
+      "values": {
+        "PP": {
+          "original": 30.0,
+          "repertorio": 30.4
+        },
+        "PSOE": {
+          "original": 26.0,
+          "repertorio": 26.5
+        }
+      }
+    }
+  ],
+  "requiresIndividualReview": [
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "1–6 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Ateneo del Dato)",
+      "field": "1–6 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "SocioMétrica/PP",
+      "field": "5 Oct",
+      "reason": "Porcentajes no inequívocos."
+    },
+    {
+      "firm": "PSOE",
+      "field": "5 Oct",
+      "reason": "Porcentajes no inequívocos."
+    },
+    {
+      "firm": "CIS (Target Point)",
+      "field": "1–4 Sep",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Ateneo del Dato)",
+      "field": "1–4 Sep",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "17 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Sondaxe)",
+      "field": "1–6 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Target Point)",
+      "field": "1–6 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Ateneo del Dato)",
+      "field": "1–6 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Demócrata)",
+      "field": "22–30 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Demócrata)",
+      "field": "22–30 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Ateneo del Dato)",
+      "field": "1–4 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Target Point)",
+      "field": "4–18 May",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Ateneo del Dato)",
+      "field": "4–18 May",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "23 Apr",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Ateneo del Dato)",
+      "field": "6–10 Apr",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "6–10 Apr",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Target Point)",
+      "field": "2–6 Mar",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Ateneo del Dato)",
+      "field": "2–6 Mar",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "2–6 Mar",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "2–6 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Target Point)",
+      "field": "2–6 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "22 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "5–10 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–5 Dec",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "3–12 Nov",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "16 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "1–7 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–7 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "1–6 Sep",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–6 Sep",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "17 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "1–7 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–7 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "2–7 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "2–7 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "22 May",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "5–8 May",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "5–8 May",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "1–8 Apr",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–8 Apr",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "20 Mar",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "28 Feb–7 Mar",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "20 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "6 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "31 Jan–6 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "31 Jan–6 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (SocioMétrica)",
+      "field": "31 Jan–6 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Opina 360)",
+      "field": "2–9 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "2–9 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (SocioMétrica)",
+      "field": "2–9 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "22 Dec",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "23 Nov",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "2–7 Nov",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "24 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–11 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "21 Sep",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "2–6 Sep",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "20 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (JM)",
+      "field": "1–4 Jul",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "22 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (SocioMétrica)",
+      "field": "31 May–6 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "31 May–6 Jun",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "18 May",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "3–8 May",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "13 Apr",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (SocioMétrica)",
+      "field": "1–4 Apr",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "16 Mar",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "Sigma Dos/Antena 3",
+      "field": "5–15 Mar",
+      "reason": "Porcentajes no inequívocos."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–5 Mar",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "24 Feb",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "18 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "2–5 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Jaime Miquel)",
+      "field": "2–5 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (SocioMétrica)",
+      "field": "2–5 Jan",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "31 Dec",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "CIS (Logoslab)",
+      "field": "1–7 Dec",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "Sigma Dos/Antena 3",
+      "field": "17–27 Nov",
+      "reason": "Porcentajes no inequívocos."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "25 Nov",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    },
+    {
+      "firm": "Sigma Dos/Antena 3",
+      "field": "4–11 Oct",
+      "reason": "Porcentajes no inequívocos."
+    },
+    {
+      "firm": "KeyData/Público",
+      "field": "5 Oct",
+      "reason": "Modelo, reestimación o fila con varios escenarios; requiere revisión individual."
+    }
+  ]
+}
