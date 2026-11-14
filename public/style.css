@@ -443,3 +443,8 @@ select:focus,input:not([type=checkbox]):focus,textarea:focus{outline:3px solid v
 .poll-mean{border-bottom:1px solid #d9ddd9;padding:14px 0}
 .spread-average small{display:block;margin-top:4px;color:#3e4641!important}
 .poll-export,.poll-list-top #poll-export{color:#111214!important;background:#ECEDEA!important}
+/* Interior de los desplegables: mantener contraste también al abrirlos */
+select{appearance:auto!important;color-scheme:light!important;background-color:#ECEDEA!important;color:#111214!important}
+select option,select optgroup{background:#F7F8F5!important;color:#111214!important;font-weight:600}
+select option:checked,select option:hover{background:#D7FF5A!important;color:#111214!important}
+select:disabled{background:#D9DDD9!important;color:#59605C!important}
