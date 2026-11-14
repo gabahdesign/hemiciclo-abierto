@@ -7,5 +7,8 @@ export const responses = sqliteTable('responses', {
  party: text('party').notNull(),
  province: text('province').notNull(),
  created: text('created').notNull(),
- consent: text('consent').notNull().default('v1'),
+  consent: text('consent').notNull().default('v1'),
+  consentAt: text('consent_at').notNull().default(''),
+  privacyVersion: text('privacy_version').notNull().default('2026-11-14'),
+  updated: text('updated').notNull().default(''),
 });

@@ -25,7 +25,8 @@ export async function POST(req:Request){
  const province=special?body.party!.split(':')[1]:p?.province;
  if(body.consent!==true||body.adult!==true||!province||(!p&&!special)||(special&&body.party!==special+':'+province)||!data['2026'].some(p=>p.province===province))return json({error:'Revisa provincia, candidatura y consentimiento.'},400);
  await prune();
- const result=await getDb().insert(responses).values({account:k,party:body.party!,province,created:new Date().toISOString(),consent:'v1'}).onConflictDoNothing().returning({account:responses.account});
+ const now=new Date().toISOString();
+ const result=await getDb().insert(responses).values({account:k,party:body.party!,province,created:now,consent:'explicit-v1',consentAt:now,privacyVersion:'2026-11-14',updated:now}).onConflictDoNothing().returning({account:responses.account});
  if(!result.length)return json({error:'Esta cuenta ya ha participado. Puedes retirar tu respuesta desde Privacidad.'},409);
  return json({ok:true},201);
 }
@@ -40,7 +41,8 @@ export async function PUT(req:Request){
  const province=special?body.party!.split(':')[1]:p?.province;
  if(body.consent!==true||body.adult!==true||!province||(!p&&!special)||(special&&body.party!==special+':'+province)||!data['2026'].some(p=>p.province===province))return json({error:'Revisa provincia, candidatura y consentimiento.'},400);
  await prune();
- const updated=await getDb().update(responses).set({party:body.party!,province,created:new Date().toISOString(),consent:'v1'}).where(eq(responses.account,k)).returning({account:responses.account});
+ const now=new Date().toISOString();
+ const updated=await getDb().update(responses).set({party:body.party!,province,created:now,consent:'explicit-v1',consentAt:now,privacyVersion:'2026-11-14',updated:now}).where(eq(responses.account,k)).returning({account:responses.account});
  return updated.length?json({ok:true}):json({error:'No hay una respuesta activa para modificar.'},404);
 }
 export async function DELETE(req:Request){
