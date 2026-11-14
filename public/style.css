@@ -448,3 +448,8 @@ select{appearance:auto!important;color-scheme:light!important;background-color:#
 select option,select optgroup{background:#F7F8F5!important;color:#111214!important;font-weight:600}
 select option:checked,select option:hover{background:#D7FF5A!important;color:#111214!important}
 select:disabled{background:#D9DDD9!important;color:#59605C!important}
+.candidate-list{transition:background .15s ease,color .15s ease}
+.candidate-list:hover,.candidate-list:focus-within{background:var(--accent-phosphor,#D7FF5A)!important;color:#111214!important}
+.candidate-list:hover summary,.candidate-list:focus-within summary{background:transparent!important;color:#111214!important}
+.candidate-list:hover summary small,.candidate-list:focus-within summary small{color:#111214!important}
+.senate-note{background:#ECEDEA;border-left:4px solid #111214;padding:12px 16px;font-size:12px;line-height:1.55}
