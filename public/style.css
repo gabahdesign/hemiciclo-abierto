@@ -424,3 +424,22 @@ footer,footer p,footer a,footer .brand{color:#F7F8F5!important}
 .mobile-nav a:hover,.mobile-nav button:hover,.mobile-nav a[aria-current=true],.mobile-nav a.active,.mobile-nav button[aria-current=true],.mobile-nav button.active{background:var(--olive)!important;color:var(--ink)!important}
 .mobile-nav a:active,.mobile-nav button:active{transform:scale(.96)}
 @media(min-width:701px){.mobile-nav{display:none!important}}
+
+/* Ajustes de esta revisión */
+.button:hover,.button:focus-visible{color:#111214!important}
+#directo{background:var(--accent-phosphor,#D7FF5A)!important;color:#111214!important}
+#directo h2,#directo h3,#directo p,#directo label,#directo .note,#directo .eyebrow{color:#111214!important}
+#poll-incidents{background:#ECEDEA!important;color:#111214!important}
+#poll-incidents h2,#poll-incidents h3,#poll-incidents p,#poll-incidents .note,#poll-incidents summary{color:#111214!important}
+select,input:not([type=checkbox]),textarea{background:#ECEDEA!important;color:#111214!important;border:1.5px solid #4f5752!important;border-radius:10px!important;box-shadow:inset 0 1px 0 rgba(255,255,255,.7)!important}
+select:focus,input:not([type=checkbox]):focus,textarea:focus{outline:3px solid var(--accent-phosphor,#D7FF5A)!important;outline-offset:2px;border-color:#111214!important}
+.poll-picker,.poll-picker[open],.poll-picker .picker-body{background:#fff!important;color:#111214!important}
+.poll-picker summary{background:#ECEDEA!important;color:#111214!important;border-radius:10px}
+.poll-picker summary:hover,.poll-picker[open] summary{background:var(--accent-phosphor,#D7FF5A)!important;color:#111214!important}
+.house-option{background:#ECEDEA!important;color:#111214!important;border-color:#9aa29d!important;border-radius:10px!important}
+.house-option[aria-pressed=true]{background:#fff!important;border-color:#111214!important;box-shadow:inset 5px 0 0 var(--accent-phosphor,#D7FF5A)!important}
+.poll-mean .bar-track{background:#E4E7E3!important}
+.poll-mean .bar-fill{background:var(--party-color,#69737A)}
+.poll-mean{border-bottom:1px solid #d9ddd9;padding:14px 0}
+.spread-average small{display:block;margin-top:4px;color:#3e4641!important}
+.poll-export,.poll-list-top #poll-export{color:#111214!important;background:#ECEDEA!important}
