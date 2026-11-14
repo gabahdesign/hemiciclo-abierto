@@ -453,3 +453,5 @@ select:disabled{background:#D9DDD9!important;color:#59605C!important}
 .candidate-list:hover summary,.candidate-list:focus-within summary{background:transparent!important;color:#111214!important}
 .candidate-list:hover summary small,.candidate-list:focus-within summary small{color:#111214!important}
 .senate-note{background:#ECEDEA;border-left:4px solid #111214;padding:12px 16px;font-size:12px;line-height:1.55}
+.privacy-info-check{background:#ECEDEA;border:1px solid #9AA29D;border-radius:10px;padding:12px!important;color:#111214}
+.privacy-info-check:focus-within{outline:3px solid var(--accent-phosphor);outline-offset:2px}
